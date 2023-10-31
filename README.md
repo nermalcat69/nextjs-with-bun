@@ -1,1 +1,1 @@
-# nextjs-with-vite
+# Nextjs with Bunjs
